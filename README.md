@@ -1,8 +1,6 @@
-http://emmenko.github.io/redux-react-router-async-example
+# cherrytree-redux-react-example
 
-This is a boilerplate example showcasing mostly [Redux](https://github.com/gaearon/redux) and [React Router](https://github.com/rackt/react-router).
-
-> Still a **WIP** but it aims to provide different examples or use cases with the two libraries.
+This is a boilerplate example showcasing how to use [cherrrytree](https://github.com/QubitProducts/cherrytree) with [Redux](https://github.com/gaearon/redux) and [React](https://github.com/facebook/react) and [react-hot-loader](https://github.com/gaearon/react-hot-loader).
 
 ## Development
 
@@ -11,10 +9,6 @@ npm install
 npm start
 ```
 
-#### Thanks
+# Thanks
 
-- [Redux](https://github.com/gaearon/redux) for the _Atomic Flux_ architecture.
-- [React](https://github.com/facebook/react) for all the goodness.
-- [React-Router](https://github.com/rackt/react-router) for the other goodness.
-- [React-Hot-Loader](https://github.com/gaearon/react-hot-loader) for development fun (and productivity).
-- [Webpack](https://github.com/webpack/webpack) for keeping everything together.
+This is adapted from https://github.com/emmenko/redux-react-router-async-example. Thanks @emmenko!
