@@ -1,16 +1,20 @@
 {
-  "name": "redux-react-router-async-example",
+  "name": "cherrytree-redux-react-example",
   "version": "0.0.1",
   "description": "",
-  "homepage": "https://github.com/emmenko/redux-react-router-async-example",
-  "author": "Nicola Molinari <emmenko@gmail.com>",
+  "homepage": "https://github.com/KidkArolis/cherrytree-redux-react-example",
+  "maintainers": [
+    {
+      "name": "Karolis Narkevicius"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/emmenko/redux-react-router-async-example.git"
+    "url": "https://github.com/KidkArolis/cherrytree-redux-react-example.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emmenko/redux-react-router-async-example/issues"
+    "url": "https://github.com/KidkArolis/cherrytree-redux-react-example/issues"
   },
   "scripts": {
     "build": "npm run clean && npm run lint && webpack",
