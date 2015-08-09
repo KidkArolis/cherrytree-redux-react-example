@@ -2,6 +2,8 @@
 
 This is a boilerplate example showcasing how to use [cherrrytree](https://github.com/QubitProducts/cherrytree) with [Redux](https://github.com/gaearon/redux) and [React](https://github.com/facebook/react) and [react-hot-loader](https://github.com/gaearon/react-hot-loader).
 
+http://kidkarolis.github.io/cherrytree-redux-react-example
+
 ## Development
 
 ```bash
