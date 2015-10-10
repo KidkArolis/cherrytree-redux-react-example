@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "babel-runtime": "5.6.15",
-    "cherrytree": "^2.0.0-alpha.10",
+    "cherrytree": "^2.0.0-rc1",
     "cherrytree-for-react": "^1.0.1",
     "classnames": "2.1.2",
     "parse-link-header": "0.2.0",
